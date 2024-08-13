@@ -31,42 +31,6 @@ body {
     gap: 10px;
     padding: 20px;
 }
-.tracker{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 40px;
-    width: 100%;
-    padding: 10px;
-    
-    border: 1px solid #ddd;
-    border-radius: 2%;
-}
-.tracker:hover{
-    background-color: #e2e2e2;
-
-}
-.outer-circle{
-    height: auto;
-    width: 40px;
-    border-radius: 60%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #333;
-    padding: 10px;
-}
-.inner-circle{
-    height: auto;
-    width: 35px;
-    border-radius: 60%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: white;
-    text-align: center;
-    font-size: x-small;
-}
 .container {
     flex: 1;
     width: 80%;
@@ -122,3 +86,85 @@ h1 {
 .slot:hover {
     background-color: #c2c2c2;
 }
+
+
+.tracker{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 2%;
+}
+.tracker:hover{
+    background-color: #e2e2e2;
+
+}
+
+
+
+
+
+
+
+
+
+
+/* 
+progress bar
+*/
+
+
+.child-container {
+    display: grid;
+    grid-template-columns: repeat(1, 160px);
+    grid-gap: 10px;
+    padding: 10px;
+    margin: auto 0;
+  }
+  
+  @media (min-width: 420px) and (max-width: 659px) {
+    .child-container {
+      grid-template-columns: repeat(2, 160px);
+    }
+  }
+  
+  @media (min-width: 660px) and (max-width: 899px) {
+    .child-container {
+      grid-template-columns: repeat(3, 160px);
+    }
+  }
+  
+  @media (min-width: 900px) {
+    .child-container {
+      grid-template-columns: repeat(3, 160px);
+    }
+  }
+
+  .child-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+
+  .chart {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: -5px;
+  }
+  
+  .chart li {
+    list-style-type: none;
+    position: absolute;
+  }
+
+  .child-container .box .chart {
+    font-size: 20px;
+    line-height: 0px;
+    color: #000;
+}
+  

@@ -33,3 +33,14 @@ function updateProgress(){
 //     } 
 //     document.querySelectorAll[i].style.backgroundColor="#4caf50"
 // }
+              $(function() {
+              $('.chart').easyPieChart({
+                size: 60,
+                barColor: "#36e617",
+                scaleLength: 0,
+                lineWidth: 8,
+                trackColor: "#525151",
+                lineCap: "circle",
+                animate: 2000,
+              });
+            });
