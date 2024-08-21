@@ -1,0 +1,32 @@
+body{
+    background-color: #eae4e4;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.Main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+}
+.Attendance{
+    
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 150px 200px;
+}
+.Progress{
+    
+    background-color: #af16ac;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 150px 200px;
+}
+.TimeTable{
+
+    background-color: #0e7412;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 150px 200px;
+}
