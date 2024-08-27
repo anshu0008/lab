@@ -1,32 +1,38 @@
-body{
-    background-color: #eae4e4;
-    font-family: 'Roboto', sans-serif;
-    margin: 0;
-    padding: 0;
-}
+
 .Main{
     display: flex;
     justify-content: space-around;
     align-items: center;
     height: 100vh;
+    gap: auto;
+    overflow: hidden;
 }
 .Attendance{
     
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    padding: 150px 200px;
+    padding: 50px 100px;
 }
 .Progress{
     
     background-color: #af16ac;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    padding: 150px 200px;
+    padding: 50px 100px;
 }
 .TimeTable{
 
     background-color: #0e7412;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    padding: 150px 200px;
+    padding: 50px 100px;
+}
+.TimeTable:hover {
+    padding: 80px 120px;
+}
+.Attendance:hover {
+    padding: 80px 120px;
+}
+.Progress:hover {
+    padding: 80px 120px;
 }

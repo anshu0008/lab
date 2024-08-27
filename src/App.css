@@ -150,3 +150,21 @@ progress bar
   line-height: 0px;
   color: #000;
 }
+
+
+.home{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20%;
+}
+.home .student,.teacher{
+  padding: 100px 200px;
+  background: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 40px;
+
+}
