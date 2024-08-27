@@ -1,10 +1,10 @@
 import React from "react";
 import './index.css'
-import Attendance from "./Attendance";
+import Attendance from "./attendance/Attendance";
 import { Route,Routes } from "react-router-dom";
 
-import Progress from "./Progress";
-import TimeTable from "./TimeTable";
+import Progress from "./progress/Progress";
+import TimeTable from "./timetable/TimeTable";
 import Home from "./Home";
 export default function Main(){
     return (
@@ -14,6 +14,7 @@ export default function Main(){
             <Route path="/attendance" element={<Attendance />} />
             <Route path="/progress" element={<Progress />} />
             <Route path="/timetable" element={<TimeTable />} />
+
             </Routes>
 
         </div>

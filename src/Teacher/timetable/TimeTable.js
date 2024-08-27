@@ -1,4 +1,4 @@
-import Tracker from "../components/Tracker";
+import Tracker from "../../components/Tracker";
 
 export default function TimeTable (){
     return(
