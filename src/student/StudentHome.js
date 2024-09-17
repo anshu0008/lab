@@ -1,11 +1,9 @@
 import React from 'react'
 
-const main = () => {
+export default function StudentHome() {
   return (
     <div>
-      student main
+      Student Home
     </div>
   )
 }
-
-export default main
