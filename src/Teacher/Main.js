@@ -10,10 +10,10 @@ export default function Main(){
     return (
         <div>
             <Routes>
-            <Route path="/" element={<Home />} />
             <Route path="/attendance" element={<Attendance />} />
             <Route path="/progress" element={<Progress />} />
             <Route path="/timetable" element={<TimeTable />} />
+            <Route path="/" element={<Home />} />
 
             </Routes>
 

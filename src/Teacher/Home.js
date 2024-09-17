@@ -13,7 +13,7 @@ const Home = () => {
             <img src={tt} alt='TimeTable' height={130} width={130} />
         </div>
       </Link>
-      <Link to='Progress'>
+      <Link to='progress'>
         <div className="Progress">
             <img src={stud} alt='Progress' height={130} width={130} />
         </div>

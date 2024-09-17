@@ -1,6 +1,6 @@
 import '../App.css'
 import React from 'react';
-import Chart from './chart'
+import Chart from './Chart'
 const Tracker = ({subject,percentage}) => {
     
 
