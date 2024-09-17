@@ -138,9 +138,7 @@ h1 {
   background-color: #e2e2e2;
 }
 
-/* 
-progress bar
-*/
+/*  progress bar  */
 
 .child-container {
   display: flex;
@@ -192,6 +190,7 @@ progress bar
   align-items: center;
   gap: 40px;
 }
+
 /* progress  */
 .Progress-Main {
   height: 100%;
@@ -203,6 +202,7 @@ progress bar
   padding: 100px;
   overflow: hidden;
 }
+
 .sem {
   padding: 100px;
   background: #000;

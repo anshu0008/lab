@@ -1,0 +1,218 @@
+{
+    "sem-1": {
+        "id": 1,
+        "student-list": [
+            {
+                "id": 1,
+                "name": "Anshu Agrawal",
+                "regd": 2102040008,
+                "branch": "CSE",
+                "details": {
+                    "father": "Mr. Anil Agrawal",
+                    "mother": "Mrs. Anju Agrawal",
+                    "address": "B-1/2, Sector-18, Rohini, Delhi-110085"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Prerit Kumar Jain",
+                "regd": 2102040011,
+                "branch": "CSE",
+                "details": {
+                    "father": "Mr. Rajesh Kumar Jain",
+                    "mother": "Mrs. Kanchan Jain",
+                    "address": "B-1/2, Sector-18, Rohini, Delhi-110085"
+                }
+            }
+        ]
+    },
+    "sem-2": {
+        "id": 1,
+        "student-list": [
+            {
+                "id": 1,
+                "name": "Anshu Agrawal",
+                "regd": 2102040008,
+                "branch": "CSE",
+                "details": {
+                    "father": "Mr. Anil Agrawal",
+                    "mother": "Mrs. Anju Agrawal",
+                    "address": "B-1/2, Sector-18, Rohini, Delhi-110085"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Prerit Kumar Jain",
+                "regd": 2102040011,
+                "branch": "CSE",
+                "details": {
+                    "father": "Mr. Rajesh Kumar Jain",
+                    "mother": "Mrs. Kanchan Jain",
+                    "address": "B-1/2, Sector-18, Rohini, Delhi-110085"
+                }
+            }
+        ]
+    },
+    "sem-3": {
+        "id": 1,
+        "student-list": [
+            {
+                "id": 1,
+                "name": "Anshu Agrawal",
+                "regd": 2102040008,
+                "branch": "CSE",
+                "details": {
+                    "father": "Mr. Anil Agrawal",
+                    "mother": "Mrs. Anju Agrawal",
+                    "address": "B-1/2, Sector-18, Rohini, Delhi-110085"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Prerit Kumar Jain",
+                "regd": 2102040011,
+                "branch": "CSE",
+                "details": {
+                    "father": "Mr. Rajesh Kumar Jain",
+                    "mother": "Mrs. Kanchan Jain",
+                    "address": "B-1/2, Sector-18, Rohini, Delhi-110085"
+                }
+            }
+        ]
+    },
+    "sem-4": {
+        "id": 1,
+        "student-list": [
+            {
+                "id": 1,
+                "name": "Anshu Agrawal",
+                "regd": 2102040008,
+                "branch": "CSE",
+                "details": {
+                    "father": "Mr. Anil Agrawal",
+                    "mother": "Mrs. Anju Agrawal",
+                    "address": "B-1/2, Sector-18, Rohini, Delhi-110085"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Prerit Kumar Jain",
+                "regd": 2102040011,
+                "branch": "CSE",
+                "details": {
+                    "father": "Mr. Rajesh Kumar Jain",
+                    "mother": "Mrs. Kanchan Jain",
+                    "address": "B-1/2, Sector-18, Rohini, Delhi-110085"
+                }
+            }
+        ]
+    },
+    "sem-5": {
+        "id": 1,
+        "student-list": [
+            {
+                "id": 1,
+                "name": "Anshu Agrawal",
+                "regd": 2102040008,
+                "branch": "CSE",
+                "details": {
+                    "father": "Mr. Anil Agrawal",
+                    "mother": "Mrs. Anju Agrawal",
+                    "address": "B-1/2, Sector-18, Rohini, Delhi-110085"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Prerit Kumar Jain",
+                "regd": 2102040011,
+                "branch": "CSE",
+                "details": {
+                    "father": "Mr. Rajesh Kumar Jain",
+                    "mother": "Mrs. Kanchan Jain",
+                    "address": "B-1/2, Sector-18, Rohini, Delhi-110085"
+                }
+            }
+        ]
+    },
+    "sem-6": {
+        "id": 1,
+        "student-list": [
+            {
+                "id": 1,
+                "name": "Anshu Agrawal",
+                "regd": 2102040008,
+                "branch": "CSE",
+                "details": {
+                    "father": "Mr. Anil Agrawal",
+                    "mother": "Mrs. Anju Agrawal",
+                    "address": "B-1/2, Sector-18, Rohini, Delhi-110085"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Prerit Kumar Jain",
+                "regd": 2102040011,
+                "branch": "CSE",
+                "details": {
+                    "father": "Mr. Rajesh Kumar Jain",
+                    "mother": "Mrs. Kanchan Jain",
+                    "address": "B-1/2, Sector-18, Rohini, Delhi-110085"
+                }
+            }
+        ]
+    },
+    "sem-7": {
+        "id": 1,
+        "student-list": [
+            {
+                "id": 1,
+                "name": "Anshu Agrawal",
+                "regd": 2102040008,
+                "branch": "CSE",
+                "details": {
+                    "father": "Mr. Anil Agrawal",
+                    "mother": "Mrs. Anju Agrawal",
+                    "address": "B-1/2, Sector-18, Rohini, Delhi-110085"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Prerit Kumar Jain",
+                "regd": 2102040011,
+                "branch": "CSE",
+                "details": {
+                    "father": "Mr. Rajesh Kumar Jain",
+                    "mother": "Mrs. Kanchan Jain",
+                    "address": "B-1/2, Sector-18, Rohini, Delhi-110085"
+                }
+            }
+        ]
+    },
+    "sem-8": {
+        "id": 1,
+        "student-list": [
+            {
+                "id": 1,
+                "name": "Anshu Agrawal",
+                "regd": 2102040008,
+                "branch": "CSE",
+                "details": {
+                    "father": "Mr. Anil Agrawal",
+                    "mother": "Mrs. Anju Agrawal",
+                    "address": "B-1/2, Sector-18, Rohini, Delhi-110085"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Prerit Kumar Jain",
+                "regd": 2102040011,
+                "branch": "CSE",
+                "details": {
+                    "father": "Mr. Rajesh Kumar Jain",
+                    "mother": "Mrs. Kanchan Jain",
+                    "address": "B-1/2, Sector-18, Rohini, Delhi-110085"
+                }
+            }
+        ]
+    }
+}
